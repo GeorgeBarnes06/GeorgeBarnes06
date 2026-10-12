@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm George, a first year Computer Science Student studying at the University of Exeter. 
+I'm George, a third year Computer Science Student studying at the University of Exeter. 
 
 <!--
 **GeorgeBarnes06/GeorgeBarnes06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
